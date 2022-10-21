@@ -8,7 +8,7 @@ Problem
 Fix Instructions
 ----------------
 1. Ensure your group policy settings are the same as in the XCCDF results "fix text" section of your SCC results.
-  NOTE: IMPORTING THE REGISTRY FILES WILL FIX THE SCAN RESULTS BUT DO NOT ACTUALLY MAKE CHANGES TO YOUR MICROSOFT EDGE SETTINGS. With that being said, ensure you perform step 1.
+  NOTE: IMPORTING THE REGISTRY FILES WILL FIX THE SCAN RESULTS BUT DO NOT ACTUALLY MAKE CHANGES TO YOUR MICROSOFT EDGE SETTINGS. With that being said, ensure you perform step #1.
 2. Open Registry Editor.
 3. Select File > Import...
 4. Import Edge.reg file.
